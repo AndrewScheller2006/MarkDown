@@ -48,9 +48,9 @@ My Nighttime routine includes
 - <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/samljack.jpeg" height="100px" width="200px"></kbd><br>
 
 
-| Table Name |
-| ---        |
-|Trees       |
-|Flowers     |
-|Weeds       |
-|Bushes      |
+| Table Name |Definitions|
+| ---        ||
+|Trees       |Big Plant|
+|Flowers     |Pretty Plant|
+|Weeds       |Annoying Plant|
+|Bushes      |Normal size plant|
