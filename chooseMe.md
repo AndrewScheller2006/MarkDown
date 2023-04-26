@@ -41,6 +41,6 @@ My Nighttime routine includes
 [2]: https://www.imdb.com/name/nm0000168/
 
 - [Bruno Mars][1]
-- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/bruno.jpg" height="100px" width="200px">
+- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/bruno.jpg" height="100px" width="200px"></kbd><br>
 - [Samuel L Jackson][2]<br>
-- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/samljack.jpeg" height="100px" width="200px">
+- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/samljack.jpeg" height="100px" width="200px"></kbd><br>
