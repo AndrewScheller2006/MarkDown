@@ -41,4 +41,4 @@ My Nighttime routine includes
 
 - [Bruno Mars][1]
 - [Samuel L Jackson][2]<br>
-![meme](https://github.com/AndrewScheller2006/MarkDown/blob/master/img/img1.jpg)
+- ![meme](https://github.com/AndrewScheller2006/MarkDown/blob/master/img/img1.jpg)
