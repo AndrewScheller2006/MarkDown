@@ -43,5 +43,4 @@ My Nighttime routine includes
 - [Bruno Mars][1]
 - <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/bruno.jpg" height="100px" width="200px">
 - [Samuel L Jackson][2]<br>
-- 
-
+- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/samljack.jpeg" height="100px" width="200px">
