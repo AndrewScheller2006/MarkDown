@@ -39,9 +39,10 @@ My Nighttime routine includes
 [1]: https://www.brunomars.com/
 
 [2]: https://www.imdb.com/name/nm0000168/
-<kbd>
+<kbd><br>
 - [Bruno Mars][1]
 - <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/bruno.jpg" height="100px" width="200px"></kbd><br>
-<kbd>
+
 - [Samuel L Jackson][2]<br>
+<kbd>
 - <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/samljack.jpeg" height="100px" width="200px"></kbd><br>
