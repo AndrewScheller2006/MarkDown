@@ -37,9 +37,11 @@ My Nighttime routine includes
 ## Persons of Interest
 
 [1]: https://www.brunomars.com/
+
 [2]: https://www.imdb.com/name/nm0000168/
 
 - [Bruno Mars][1]
+- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/bruno.jpg" height="100px" width="200px">
 - [Samuel L Jackson][2]<br>
-- ![meme](https://github.com/AndrewScheller2006/MarkDown/blob/master/img/img1.jpg)
-- <img src="https://github.com/AndrewScheller2006/MarkDown/blob/master/img/img1.jpg" height="100px" width="200px">
+- 
+
