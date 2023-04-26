@@ -49,7 +49,7 @@ My Nighttime routine includes
 
 
 | Table Name |Definitions|
-| ---        ||
+| :-      |----|
 |Trees       |Big Plant|
 |Flowers     |Pretty Plant|
 |Weeds       |Annoying Plant|
