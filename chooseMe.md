@@ -39,6 +39,6 @@ My Nighttime routine includes
 [1]: https://www.brunomars.com/
 [2]: https://www.imdb.com/name/nm0000168/
 
-[Bruno Mars][1]<br>
-[Samuel L Jackson][2]
+- [Bruno Mars][1]
+- [Samuel L Jackson][2]<br>
 ![meme](https://github.com/AndrewScheller2006/MarkDown/blob/master/img/img1.jpg)
